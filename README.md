@@ -1,4 +1,5 @@
-Meu nome é Gabriel Galindo Gonçalves, curso Ciência e tecnologia na Universidade Federal do ABC; essa tem sido a minha trajetória profissional/acadêmica e as habilidades desenvolvidas:
+**Gabriel Galindo Gonçalves** \
+Aspirante a físico cursando Ciência e tecnologia na Universidade Federal do ABC; essa tem sido a minha trajetória profissional/acadêmica e as habilidades desenvolvidas:
 
 #### Mercado financeiro 💱
 
@@ -19,3 +20,5 @@ Meu nome é Gabriel Galindo Gonçalves, curso Ciência e tecnologia na Universid
 
  
 > Concatenar todos esses conhecimentos dentro do mercado financeiro é o meu grande objetivo. Criando análises modernas, sólidas e produtivas, alavancando o negócio
+
+
