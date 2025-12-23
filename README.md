@@ -1,16 +1,21 @@
-## Hi there 👋
+Meu nome é Gabriel Galindo Gonçalves, curso Ciência e tecnologia na Universidade Federal do ABC; essa tem sido a minha trajetória profissional/acadêmica e as habilidades desenvolvidas:
 
-<!--
-**Backpandaz/Backpandaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Mercado financeiro 💱
 
-Here are some ideas to get you started:
+- Dois anos de experiência na plataforma de investimentos ÍON Itaú:
+    - Estruturação de bases em SQL utilizando AWS Athena
+    - Automatização de E-mails utilizando VBA
+    - Montagem de relatórios em Excel e apresentações em Powerpoints para diretores e gerentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
+#### Universidade       📚
+
+- Monitor acadêmico de Geoprocessamento e análise de dados em R para o planejamento territorial:
+    - Auxíliar os alunos a usarem o software Qgis e ensiná-los a linguagem R
+    - Tratamento de arquivos CSV para produzir análises a partir do R
+    - Confecção de Mapas e artigos acadêmicos
+
+
+ 
+> Concatenar todos esses conhecimentos dentro do mercado financeiro é o meu grande objetivo. Criando análises modernas, sólidas e produtivas, alavancando o negócio
