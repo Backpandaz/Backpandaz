@@ -1,4 +1,23 @@
-**Gabriel Galindo Gonçalves** \
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+ 
+  <samp>
+      <br>
+       Olá, meu nome é </b> <b>Gabriel Galindo Gonçalves</b>
+      
+     
+  </samp>
+</div>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Bem-vindo!" alt="Typing SVG"/>
+</div>
+
+
 Aspirante a físico cursando Ciência e tecnologia na Universidade Federal do ABC; essa tem sido a minha trajetória profissional/acadêmica e as habilidades desenvolvidas:
 
 #### Mercado financeiro 💱
@@ -67,6 +86,12 @@ Aspirante a físico cursando Ciência e tecnologia na Universidade Federal do AB
 <br/>
 <br/>
 
+
+
+<div
+
+
+>
 
  
  > ### Concatenar todos esses conhecimentos dentro do mercado financeiro é o meu grande objetivo. Criando análises modernas, sólidas e produtivas, alavancando o negócio
