@@ -8,7 +8,7 @@
  
   <samp>
       <br>
-       Olá, meu nome é </b> <b>Gabriel Galindo Gonçalves</b>
+     <b style="font-family:'times new roman', times, serif;"> Olá, meu nome é </b> <b>Gabriel Galindo Gonçalves</b>
       
      
   </samp>
@@ -89,6 +89,23 @@ Aspirante a físico cursando Ciência e tecnologia na Universidade Federal do AB
 
 
 <div
+
+
+## Estatísticas:
+
+<table border="0">
+  <tr>
+    <t
+    </td>
+    <td>
+      <a href="https://github.com/backpandaz">
+      </a><br>
+      <a href="https://github.com/backpandaz">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=backpandaz&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=false&border_radius=15">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 >
